@@ -36,5 +36,12 @@ let booleanisLoggedIn = Boolean(isLoggedIn);
 
 let someNumber = 0;
 let stringNumber = String(someNumber);
-console.log(typeof stringNumber); // string
-console.log(stringNumber); // "0"
+// console.log(typeof stringNumber); // string
+// console.log(stringNumber); // "0"
+
+
+//******************************************* Operations *******************************************
+
+let value2 = 3;
+let negValue = -value2;
+// console.log(negValue); // -3
